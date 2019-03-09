@@ -1,0 +1,15 @@
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\bin\Release\QuateDi.exe.config
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\bin\Release\QuateDi.exe
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\bin\Release\QuateDi.pdb
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\bin\Release\Newtonsoft.Json.dll
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\bin\Release\xNet.dll
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\bin\Release\Newtonsoft.Json.xml
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\obj\Release\QuotaDi.csprojResolveAssemblyReference.cache
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\obj\Release\QuateDi.Form1.resources
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\obj\Release\QuateDi.Properties.Resources.resources
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\obj\Release\QuotaDi.csproj.GenerateResource.Cache
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\obj\Release\QuateDi.exe
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\obj\Release\QuateDi.pdb
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\bin\Release\HtmlAgilityPack.dll
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\bin\Release\HtmlAgilityPack.pdb
+C:\Users\YaK\Documents\Visual Studio 2012\Projects\QuateDi\QuateDi\bin\Release\HtmlAgilityPack.xml
